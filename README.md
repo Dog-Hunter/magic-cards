@@ -13,5 +13,6 @@ if the opponent's life is 0 then he loses
 Additional rules
 if the cards in the deck run out, the player receives 1 damage each turn
 if there are 5 cards in the hand, the card is not added but discarded
+
 ---
 You can try this game by yourself, just download release "Magic Cards v.1.0" and start the .exe
